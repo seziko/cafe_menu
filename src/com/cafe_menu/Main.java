@@ -4,10 +4,6 @@ import com.cafe_menu.component.BaseComponent;
 public class Main {
 
     public static void main(String[] args) {
-
-        BaseComponent = new BaseComponent();
-
-
-
+        
     }
 }
